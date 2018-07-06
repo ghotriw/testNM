@@ -1,3 +1,5 @@
-export default testUtil = function () {
+const testUtil = function () {
   console.log('TEST UTIL')
 };
+
+ export default testUtil;
