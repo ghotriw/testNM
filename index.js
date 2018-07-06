@@ -1,7 +1,9 @@
 import testUtil from './utils/testUtil';
 
-export default testnm = (function () {
+const testnm = (function () {
   return {
     testUtil: testUtil
   }
 }());
+
+export default testnm;
